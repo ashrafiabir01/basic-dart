@@ -39,5 +39,5 @@ void main() {
     print(" Tumi Manush Na , Tumi Robot ");
   }
 
-  print("\Good Bye Bro");
+  print("\nGood Bye Bro");
 }
